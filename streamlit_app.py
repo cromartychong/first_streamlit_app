@@ -8,3 +8,5 @@ streamlit.text('🍳Hard-Boiled Free-Range Egg')
 streamlit.text('🥑avocado tast')
 
 streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
+
+import pandas
